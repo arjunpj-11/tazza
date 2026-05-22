@@ -74,6 +74,7 @@ tasa-website/
 ├── index.html       # Main HTML file
 ├── style.css        # Stylesheet
 ├── script.js        # JavaScript
+├── assets/          # Images / icons
 └── README.md
 ```
 
@@ -154,4 +155,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> 🌱 Every expert was once a beginner — TASA is where my web development journey began.
+> 🌱 "Every expert was once a beginner" — I am keeping this repository exactly as it was when I first built it, as a reminder of where my web development journey started. This is Day 1.
+
+
